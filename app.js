@@ -10,7 +10,7 @@ require('dotenv').config()
 
 aws.config.update({
 	accessKeyId: '',
-    secretAccessKey: 'FX9G5YRn6Y++qluZ4',    
+    secretAccessKey: '',    
     region: 'us-east-1'
 });
 
